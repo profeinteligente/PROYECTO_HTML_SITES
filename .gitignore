@@ -1,0 +1,22 @@
+﻿# Temporales
+*.tmp
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Claves/API
+*.env
+config/secret_*.json
